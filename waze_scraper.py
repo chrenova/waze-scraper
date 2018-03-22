@@ -4,6 +4,7 @@ import datetime
 import os
 
 URL = 'https://www.waze.com/row-rtserver/web/TGeoRSS?ma=600&mj=100&mu=0&left=16.93&right=17.25&bottom=48.08&top=48.25'
+# FIXME: ~ does not work!
 DATA_HOME = '~/data'
 
 
